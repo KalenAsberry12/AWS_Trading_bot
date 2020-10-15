@@ -25,7 +25,7 @@ You have 3 options:
 
 
 
-IS_BACKTEST = True
+IS_BACKTEST = False
 IS_LIVE = False
 
 # Traded symbol
