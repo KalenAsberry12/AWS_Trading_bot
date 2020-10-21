@@ -88,4 +88,7 @@ https://aws.amazon.com/ecs/
 
 https://aws.amazon.com/cloudformation/ 
 
-https://www.serverless.com/ -
+https://www.serverless.com/
+
+## https://aws.amazon.com/secrets-manager/
+AWS Secrets Manager | Rotate, Manage, Retrieve Secrets | Amazon Web Services (AWS)
