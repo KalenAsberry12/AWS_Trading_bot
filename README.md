@@ -92,3 +92,10 @@ https://www.serverless.com/
 
 ## https://aws.amazon.com/secrets-manager/
 AWS Secrets Manager | Rotate, Manage, Retrieve Secrets | Amazon Web Services (AWS)
+
+
+
+
+# An algorithm to find the best moving average for stock trading
+
+https://towardsdatascience.com/an-algorithm-to-find-the-best-moving-average-for-stock-trading-1b024672299c 
